@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there, I'm Grover 👋
 
-<!--
-**grovertoledo98/grovertoledo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Programming Learner, Guitar, Adventure and Photography Lover, Geneticist, Biotechnologist.
 
-Here are some ideas to get you started:
+### I'm Working on some Personal Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pokémon site to search for information (https://grovertoledo98.github.io/poke-react).
+- My personal blog (on progress).
+
+### Past Work (Not related to code 🤔)
+
+- Assisted reproduction in alpacas ♥.
+- Beautiful and enhanced chimeras of mouse.
+- Technique based on sublethal oxidative stress to improve sperm tolerance to cryopreservation.
+
+### More about me
+
+❓ Ask me about past work as a Biotechnologist (if you're curious), Higher Education (University), Photography Catalogue or anything else!
+
+💬 How to reach me: [Twitter](https://twitter.com/grover_toledo) or [LinkedIn](https://www.linkedin.com/in/grovertoledo/)
+
+✨ Fun facts: I love growing bonsais 🌱, recently I moved on so you can see some of my new seedlings in my [Intagram] (https://www.instagram.com/grover.toledo/)
+
+😄 I’m currently learning front-end technologies like React.js, Redux, Next.js
