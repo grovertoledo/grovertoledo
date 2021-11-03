@@ -19,6 +19,6 @@
 
 💬 How to reach me: [Twitter](https://twitter.com/grover_toledo) or [LinkedIn](https://www.linkedin.com/in/grovertoledo/)
 
-✨ Fun facts: I love growing bonsais 🌱, recently I moved on so you can see some of my new seedlings in my [Instagram] (https://www.instagram.com/grover.toledo/)
+✨ Fun facts: I love growing bonsais 🌱, recently I moved on so you can see some of my new seedlings in my [Instagram](https://www.instagram.com/grover.toledo/)
 
 😄 I’m currently learning front-end technologies like React.js, Redux, Next.js
