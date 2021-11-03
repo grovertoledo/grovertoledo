@@ -4,7 +4,7 @@
 
 ### I'm Working on some Personal Projects
 
-- Pokémon site to search for information (https://grovertoledo98.github.io/poke-react).
+- Pokémon site to search for information (https://grovertoledo.github.io/poke-react).
 - My personal blog (on progress).
 
 ### Past Work (Not related to code 🤔)
